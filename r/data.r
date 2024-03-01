@@ -36,7 +36,7 @@ honors <- tribble(
 edu <- tribble(
     ~degree, ~startYear, ~endYear, ~inst, ~where, ~detail,
     "University of Illinois", 2021, NA, "Master of Science Civic Analytics", "Chicago - Illinois",NA,
-    "Northeastern Illinois University", 2017, 2020, "Bachelor of Arts Economics, minor Philosophy", "Chicago - Illinois",NA,
+    "Northeastern Illinois University", 2017, 2020, "Bachelor of Arts Economics, Minor Philosophy", "Chicago - Illinois", "Honors: summa cum laude",
     "Cosumnes River College", 2012, 2015, "Associate of Art (A.A.) Physical Education Teaching and Coaching", "Sacramento - California", "Phi Theta Kappa Academic Honor Society",
     "Cosumnes River College", 2012, 2015, "Associate of Science (A.S.) Liberal Arts: Math and Science", "Sacramento - California", "Phi Theta Kappa Academic Honor Society",
     "San Joaquin Delta College", 2011, 2011, "Pre-Calculus", "Stockton - California",NA,

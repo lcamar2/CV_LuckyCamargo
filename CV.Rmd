@@ -2,11 +2,11 @@
 name: Lacourdaire (Lucky)
 surname: Camargo
 position: "Data Analyst"
-address: "Covered Illinois"
+address: "Illinois"
 profilepic: "./img/me.jpg"
 www: "NA"
 email: "luckycamargo1011@gmail.com"
-github: tallguyjenks
+github: lcamar2
 linkedin: bryanjenks
 orcid: 0000-0002-9604-3069
 date: "`r format(Sys.time(), '%B %Y')`"
